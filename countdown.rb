@@ -2,5 +2,6 @@
 
 def countdown
   number = []
-  puts 
+  puts "#{number} SECOND(S)!"
+  number -=
 end
